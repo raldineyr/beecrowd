@@ -1,9 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
-    printf("4 x 5 = %d", 4*5);
-    return (1);
-}
+    puts ("Nao me incomode agora, estou ocupado.");
 
-// ADICIONANDO UMA DECLARAÇÃO DE RETORNO
+    return (0);
+}
